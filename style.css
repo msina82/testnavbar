@@ -1,0 +1,573 @@
+#img{
+    border: 1px none;
+    width: 25px;
+    height: 25px;
+    float: left;
+    background-color: aqua;
+    margin-left: 10px;
+}
+#p88{
+  
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: xx-large;
+    float: left;
+
+}
+#p89{
+    
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: xx-large;
+    float: left ;
+}
+#p90{
+    
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: xx-large;
+   float: left ;
+}
+#p91{
+   
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: xx-large;
+    float: left ;
+}
+#p92{
+    
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: xx-large;
+    float: left ;
+}
+#po87{
+    border-radius: 15px;
+    padding: 5px;
+    background: linear-gradient(black , rgb(150, 142, 230));
+    box-shadow: 5px 5px 5px darkblue;
+}
+#po87:active{
+    background-color: 2px 3px 4px brown;
+}
+#bu1{
+background-color: brown;
+color: cornsilk;
+float: right;
+border-radius: 5px;
+
+
+}
+#bu2{
+    background-color: brown;
+    color: beige;
+    border-radius: 5px;
+}
+#fd2{
+    border-radius: 15px;
+    background: linear-gradient(green , blue);
+}
+.yu1{
+    background: linear-gradient(rgb(160, 145, 145) , rgb(0, 0, 0));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+}
+.img1{
+   
+    width: 1500px;
+    height: 400px;
+    background-size: cover;
+}
+#hm{
+    border: 1px dotted;
+    border-radius: 15px;
+    
+    background:linear-gradient(blue , black);
+    color: beige;
+}
+#boxd{
+    border: 2px none;
+    border-style: dotted;
+    padding: 1.5px;
+    width: 380px;
+    height: 380px;
+    font-size: large;
+    color: aliceblue;
+    float: left;
+}
+#link1{
+    
+    position: relative;
+    left: 45px;
+    right: 45px;
+    bottom: unset;: 25px;
+    width: 300px;
+    
+}
+#para{
+    border: 2px dotted;
+    border-radius: 15px;
+    color: aliceblue;
+
+    padding: 5px;
+    clear: both;
+}
+#txt1{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+
+}
+#txt2:hover{
+ color: aliceblue;
+}
+#txt2:active{
+    background-color: blueviolet;
+    color: black;
+}
+#jh{
+    height: 150px;
+    border: 3px solid;
+    background-color: goldenrod;
+    color: goldenrod;
+}
+#lk4{
+    float: right;
+    padding: 2.5px;
+    color: black;
+}
+#lk5{
+    float: right;
+    padding: 2.5px;
+    color: rgb(214, 0, 0);
+}
+#ty22{
+    text-align: center;
+    background-color: rgb(24, 17, 29);
+
+}
+#ty22:hover{
+    color: black;
+}
+#ty22:active{
+    color: rgb(2, 192, 192);
+}
+#ty22:visited{
+   color: azure;
+}
+#uy23{
+    border-radius: 15px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(7, 7, 6);
+    background: linear-gradient(gray , skyblue);
+}
+#ot87{
+    width: 120px;
+    border-radius: 80px;
+    float: left;
+    padding: 7.px;
+    margin-right: 1%;
+}
+.ou1{
+    padding: 3px;
+    color: aliceblue;
+    font-size: large;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+#pl87{
+    float:right;
+    border-radius: 5px;
+    color: goldenrod;
+    background-color: black;
+
+}
+.kl2{
+    border-radius: 20px;
+    background: linear-gradient(black , gold);
+}
+.mnw{
+    width: 190px;
+    border: 2px solid;
+    border-radius: 5px ;
+    border-color: gold;
+}
+.okm{
+    background-image: url(Images/pexels-maxime-francis-2246476.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.bn1{
+    background: linear-gradient(skyblue , darkgray);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bn2{
+    background: linear-gradient(darkgray , skyblue);
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.bn2:hover{
+    color: crimson;
+
+}
+.jpj{
+    border-radius: 20px;
+    border-color: goldenrod;
+    background: linear-gradient(black , gray);
+    color: beige;
+}
+.jpj:active{
+ color: blueviolet;
+}
+.mlo1:nth-child(odd){
+    background-color: skyblue;
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+    
+    
+}
+.mlo1:nth-child(even){
+    background-color: purple;
+    color:rgb(0, 0, 0) ;
+    font-size: x-large;
+
+    
+}
+#plm1{
+    text-align: center;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-radius: 15px;
+    background-color: black;
+    color: aliceblue;
+}
+.ert2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: large;
+    background:linear-gradient(skyblue darkgreen);
+    color: whitesmoke;
+    
+}
+.hjk{
+    height: 400px;
+    width: 800px;
+}
+#bnm1{
+    color: whitesmoke;
+    border: 2px solid;
+    border-color: goldenrod;
+    text-align: center;
+}
+.bn5{
+    float: right;
+    background-color: black;
+    color: goldenrod;
+
+}
+.bn5:hover{
+    background-color: brown;
+}
+#song{
+    background-color: aqua;
+    color: aqua;
+    border-radius: 20px;
+
+}
+#xc{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    border: 2px solid;
+    background-color: black;
+
+}
+#jg{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.df{
+    border-radius: 100px;
+
+}
+.nh{
+    float: right;
+    background-color: black;
+    color: yellow;
+
+}
+.nh:hover{
+    background-color: brown;
+}
+#vb{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 35px;
+    border-color: yellow;
+    padding: 15px;
+}
+#mb{
+    float: left;
+    margin-bottom: 10%;
+    border-radius: 15px;
+}
+#cv{
+    background-color:skyblue;
+    background: linear-gradient(rgb(128, 117, 117) , rgb(32, 102, 35));
+    background-attachment: fixed;
+}
+.zx{
+    background: linear-gradient(blue , darkgray);
+}
+#qw{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(darkgray , green);
+    
+}
+#rty{
+    background-color: azure;
+}
+#rtg{
+    background-color: white;
+
+}
+#rth{
+    background-color: black;
+    border-radius: 15px;
+    border: 2px solid;
+}
+#fhj{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-style: italic;
+    color: white;
+    border: 4px solid ;
+    padding: 5px;
+    border-color: rgb(15, 8, 15);
+}
+#bf{
+    background-color: azure;
+    border-radius: 20px;
+    padding: 5px;
+}
+#gv{
+    border: 2px solid;
+    width: 450px;
+    height: 400px;
+    padding: 3.5px;
+    text-align: center;
+    font-family: sans-serif;
+    border-radius: 15px;
+    background: linear-gradient(skyblue , darkgreen);
+    background-attachment: fixed;
+
+}
+#as{
+    border: 2px solid;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    font-size: 35px;
+    float: right;
+    
+}
+#ad{
+    border: 2px solid;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    font-size: 35px;
+    float: left;
+    
+}
+#rfv{
+    background-image: url(Images/pexels-andrea-piacquadio-3784391.jpg);
+    background-size: cover;
+    background-attachment: ;
+    border: 2px solid;
+    width: 350px;
+    height: 350px;
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+#rdf{
+    border: 2px solid;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+#rdd{
+    background-image: url(Images/pexels-andrea-piacquadio-3784391.jpg);
+    background-size: cover;
+    background-attachment: ;
+    border: 2px solid;
+    width: 350px;
+    height: 350px;
+    
+}
+
+
+
+#rfd{
+
+    border: 2px solid;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    
+    
+    
+}
+.gt{
+    text-shadow: 0px 2px 4px  rgb(158, 13, 13);
+    box-shadow: 0px 2px 7px red;
+}
+#vs{
+    border: 1px solid;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: 200px;
+    background-color: brown;
+    animation: 3s linear 0ms infinite running hi;
+}
+@keyframes hi{
+    from{margin-left: 100%;}
+    to{margin-right: 0%;}
+}
+#er{
+    border: 1px solid;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: 200px;
+    background-color: yellow;
+    animation: 5s linear 0ms infinite running fu;
+}
+@keyframes fu{
+    50%{transform: scale(0.5 , 1);}
+}
+#we{
+    border: 1px solid;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: 200px;
+    background-color: teal;
+    animation: 5s linear 0ms infinite running gb;
+}
+@keyframes gb{
+    
+    100%{transform: rotateX(360deg);}
+    50%{transform: rotateZ(180deg);}
+    100%{transform: rotatey(180deg);}
+}
+#ey{
+border: 1px solid;
+width: 250px;
+height: 250px;
+text-align: center;
+font-size: 200px;
+background-color: pink;
+animation: 5s linear 0ms infinite running vg;
+
+
+}
+@keyframes vg{
+    50%{opacity: 0;}
+}
+#nq{
+    border: 1px solid;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: 200px;
+    background-color: darkgoldenrod;
+    animation: 5s linear 0ms infinite running nm;
+
+}
+@keyframes nm{
+    20%{background-color: aqua;}
+    40%{background-color: yellow;}
+    60%{background-color: violet;}
+    80%{background-color: teal;}
+    100%{background-color: whitesmoke;}
+}
+.jvd ul{
+    
+    list-style-type:none ;
+    background: linear-gradient();
+    padding: 0%;
+    margin: 0%;
+    border-radius: 3px;
+    overflow: hidden;
+    border-radius: 15px;
+    background-image: url(logo/15697-a96edf360d8e7fac549b9fb0687a9f18.webp);
+    background-position: center;
+    background-size: cover;
+    
+    
+
+}
+.jvd a{
+    
+    border: 1px solid;
+    border-color: ;
+    border-radius: 12px;
+
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    float: left;
+}
+.jvd a:hover{
+
+    background-color: black;
+    color: white;
+
+}
+.zxgreen ul{
+    list-style-type: none;
+    background: linear-gradient(skyblue , darkgreen );
+    padding: 0%;
+    margin: ;
+    border-radius: 25px;
+    overflow: hidden;
+
+}
+.zxgreen a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    border-left: 1px solid;
+    border-radius: 15px;
+
+
+}
+.zxgreen a:hover{
+    background:linear-gradient(blue , white);
+    border-radius: 15px;
+}
+.zxgreen li{
+    float: left;
+}
